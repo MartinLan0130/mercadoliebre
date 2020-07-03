@@ -1,0 +1,25 @@
+body { background-color:white;;}
+
+p { font-size: 12px ;
+    }
+
+h2{ font-size: 24px;
+background-color: #ebebeb;}
+
+.precios { font-size:18px;
+    font-weight: bold;
+}
+
+.descuentos {font-size: 16px; color:green;}
+
+.descripciones { font-size: 16px;}
+
+#inicio { background-color: #FBE90A;
+background-size: cover;}
+
+ul { list-style: none;}
+
+ul li a { color:black;
+text-decoration:none;}
+
+.separador { background-color:#ebebeb;}
